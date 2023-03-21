@@ -1,3 +1,4 @@
+## Kuracağımız Node ekip tarafından ödüllü olmadığı belirtiliyor. Özellikle MUSTAFA nın bilgisine :)
 ## Tavsiye Edilen Sistem Gereksinimleri
 - CPU: 4+ ÇEKİRDEK
 - RAM: 4+ GB (Önerilen 8)
